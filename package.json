@@ -1,5 +1,5 @@
 {
-  "name": "geo-portal-password-encryptor",
+  "name": "password-encryptor",
   "version": "1.0.0",
   "description": "Converting user plainText password to encrypted",
   "main": "index.js",
