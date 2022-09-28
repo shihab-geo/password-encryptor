@@ -1,1 +1,1 @@
-# geo-portal-password-encryptor
+# plain-text password-encryptor
