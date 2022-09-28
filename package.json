@@ -11,12 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shihab-geo/geo-portal-password-encryptor.git"
+    "url": "git+https://github.com/shihab-geo/password-encryptor.git"
   },
   "bugs": {
-    "url": "https://github.com/shihab-geo/geo-portal-password-encryptor/issues"
+    "url": "https://github.com/shihab-geo/password-encryptor/issues"
   },
-  "homepage": "https://github.com/shihab-geo/geo-portal-password-encryptor#readme",
+  "homepage": "https://github.com/shihab-geo/password-encryptor#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "body-parser": "^1.20.0",
